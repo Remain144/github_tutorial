@@ -26,7 +26,7 @@ module JB
     }
     
     def self.base
-      SOURCE
+      SOURCEiiiiiiiiii
     end
 
     # build a path relative to configured path settings.
